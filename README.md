@@ -17,6 +17,7 @@ Visit: [https://dashwhiz.github.io/genmoji-app](https://dashwhiz.github.io/genmo
 This site is hosted on GitHub Pages.
 
 To deploy updates:
+
 ```bash
 git add .
 git commit -m "Update content"
@@ -28,16 +29,19 @@ Changes will be live in ~1 minute.
 ## 📝 URLs for App Store Connect
 
 **Privacy Policy URL**:
+
 ```
 https://dashwhiz.github.io/genmoji-app/#privacy
 ```
 
 **Support URL**:
+
 ```
 https://dashwhiz.github.io/genmoji-app/#support
 ```
 
 **Marketing URL** (optional):
+
 ```
 https://dashwhiz.github.io/genmoji-app
 ```
@@ -63,4 +67,4 @@ Email: dashwhiz@gmail.com
 
 ---
 
-© 2024 Aleksandar Velichkovikj
+© 2025 Aleksandar Velichkovikj
