@@ -8,6 +8,7 @@
       content="Genmoji Party - Create and share emoji puzzle games with friends. Privacy-focused, free, and fun!"
     />
     <title>Genmoji Party - Emoji Puzzle Game</title>
+    <link rel="icon" type="image/svg+xml" href="favicon.svg" />
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
@@ -17,6 +18,11 @@
           <span class="emoji">🎉</span>
           <span class="brand-name">Genmoji Party</span>
         </div>
+        <button class="hamburger" aria-label="Toggle menu">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
         <div class="nav-links">
           <a href="#features">Features</a>
           <a href="#privacy">Privacy</a>
@@ -266,9 +272,28 @@
           </div>
         </div>
         <div class="footer-bottom">
-          <p>&copy; 2025 Aleksandar Velichkovikj. All rights reserved.</p>
+          <p>&copy; 2025 Genmoji Party. All rights reserved.</p>
         </div>
       </div>
     </footer>
+
+    <script>
+      // Mobile menu toggle
+      const hamburger = document.querySelector('.hamburger');
+      const navLinks = document.querySelector('.nav-links');
+
+      hamburger.addEventListener('click', () => {
+        hamburger.classList.toggle('active');
+        navLinks.classList.toggle('active');
+      });
+
+      // Close menu when clicking on a link
+      document.querySelectorAll('.nav-links a').forEach((link) => {
+        link.addEventListener('click', () => {
+          hamburger.classList.remove('active');
+          navLinks.classList.remove('active');
+        });
+      });
+    </script>
   </body>
 </html>
