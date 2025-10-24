@@ -1,12 +1,12 @@
 {
-  "version": "1.0.0",
-  "lastUpdated": "2025-01-24T12:00:00Z",
+  "version": "1.1.0",
+  "lastUpdated": "2025-10-24T12:00:00Z",
   "library_puzzles": {
-    "count": 125,
-    "hash": "initial"
+    "count": 175,
+    "hash": "update-oct-2025"
   },
   "challenge_puzzles": {
-    "count": 125,
-    "hash": "initial"
+    "count": 175,
+    "hash": "update-oct-2025"
   }
 }
