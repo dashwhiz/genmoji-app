@@ -1,0 +1,1981 @@
+[
+  {
+    "id": "lib_easy_001",
+    "title": "Italian Favorite",
+    "category": "Food & Drink",
+    "emojiList": [
+      "\ud83c\udf55",
+      "\ud83e\uddc0",
+      "\ud83c\udf45"
+    ],
+    "answer": "Pizza",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Round, cheesy, sliced",
+    "difficulty": "easy",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_easy_002",
+    "title": "Man's Best Friend",
+    "category": "Animals",
+    "emojiList": [
+      "\ud83d\udc15",
+      "\ud83e\uddb4",
+      "\ud83d\udc3e"
+    ],
+    "answer": "Dog",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Loyal companion that barks",
+    "difficulty": "easy",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_easy_003",
+    "title": "Doctor's Fear",
+    "category": "Food & Drink",
+    "emojiList": [
+      "\ud83c\udf4e",
+      "\ud83d\udd34",
+      "\ud83c\udf33"
+    ],
+    "answer": "Apple",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "A red fruit a day...",
+    "difficulty": "easy",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_easy_004",
+    "title": "Ocean's Gentle Giant",
+    "category": "Animals",
+    "emojiList": [
+      "\ud83d\udc0b",
+      "\ud83c\udf0a",
+      "\ud83d\udc99"
+    ],
+    "answer": "Whale",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Largest ocean mammal",
+    "difficulty": "easy",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_easy_005",
+    "title": "Yellow Fruit",
+    "category": "Food & Drink",
+    "emojiList": [
+      "\ud83c\udf4c",
+      "\ud83d\udc12",
+      "\ud83d\udc9b"
+    ],
+    "answer": "Banana",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Monkeys love it",
+    "difficulty": "easy",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_easy_006",
+    "title": "Purring Pet",
+    "category": "Animals",
+    "emojiList": [
+      "\ud83d\udc31",
+      "\ud83e\udd5b",
+      "\ud83d\ude38"
+    ],
+    "answer": "Cat",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Independent furry friend",
+    "difficulty": "easy",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_easy_007",
+    "title": "Fast Food Classic",
+    "category": "Food & Drink",
+    "emojiList": [
+      "\ud83c\udf54",
+      "\ud83c\udf5f",
+      "\ud83e\udd64"
+    ],
+    "answer": "Hamburger",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Beef patty in a bun",
+    "difficulty": "easy",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_easy_008",
+    "title": "Yellow Bear",
+    "category": "Celebrities",
+    "emojiList": [
+      "\ud83d\udc3b",
+      "\ud83c\udf6f",
+      "\ud83c\udf33"
+    ],
+    "answer": "Winnie the Pooh",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Honey-loving Disney bear",
+    "difficulty": "easy",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_easy_009",
+    "title": "Hot Drink",
+    "category": "Food & Drink",
+    "emojiList": [
+      "\u2615",
+      "\u2600\ufe0f",
+      "\u2601\ufe0f"
+    ],
+    "answer": "Coffee",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Morning wake-up brew",
+    "difficulty": "easy",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_easy_010",
+    "title": "Sweet Treat",
+    "category": "Food & Drink",
+    "emojiList": [
+      "\ud83c\udf6b",
+      "\ud83d\udfeb",
+      "\ud83d\ude0b"
+    ],
+    "answer": "Chocolate",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Brown sweet confection",
+    "difficulty": "easy",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_easy_011",
+    "title": "Red Superhero",
+    "category": "Movies",
+    "emojiList": [
+      "\ud83d\udd77\ufe0f",
+      "\ud83d\udd78\ufe0f",
+      "\ud83e\uddb8\u200d\u2642\ufe0f"
+    ],
+    "answer": "Spider-Man",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Web-slinging hero",
+    "difficulty": "easy",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_easy_012",
+    "title": "King of Jungle",
+    "category": "Animals",
+    "emojiList": [
+      "\ud83e\udd81",
+      "\ud83d\udc51",
+      "\ud83c\udf0d"
+    ],
+    "answer": "Lion",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Roars with a mane",
+    "difficulty": "easy",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_easy_013",
+    "title": "Birthday Dessert",
+    "category": "Food & Drink",
+    "emojiList": [
+      "\ud83c\udf82",
+      "\ud83d\udd6f\ufe0f",
+      "\ud83c\udf89"
+    ],
+    "answer": "Cake",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Blow out the candles",
+    "difficulty": "easy",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_easy_014",
+    "title": "Frozen Treat",
+    "category": "Food & Drink",
+    "emojiList": [
+      "\ud83c\udf66",
+      "\ud83e\udd76",
+      "\ud83c\udf68"
+    ],
+    "answer": "Ice Cream",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Cold, sweet, melts quickly",
+    "difficulty": "easy",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_easy_015",
+    "title": "Morning Meal",
+    "category": "Food & Drink",
+    "emojiList": [
+      "\ud83e\udd5a",
+      "\ud83e\udd53",
+      "\ud83c\udf73"
+    ],
+    "answer": "Breakfast",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "First meal of the day",
+    "difficulty": "easy",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_easy_016",
+    "title": "Bright Star",
+    "category": "Science",
+    "emojiList": [
+      "\u2600\ufe0f",
+      "\ud83c\udf1e",
+      "\ud83d\udd06"
+    ],
+    "answer": "Sun",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Center of our solar system",
+    "difficulty": "easy",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_easy_017",
+    "title": "Night Light",
+    "category": "Science",
+    "emojiList": [
+      "\ud83c\udf19",
+      "\ud83c\udf1b",
+      "\u2b50"
+    ],
+    "answer": "Moon",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Earth's satellite",
+    "difficulty": "easy",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_easy_018",
+    "title": "Flying Insect",
+    "category": "Animals",
+    "emojiList": [
+      "\ud83d\udc1d",
+      "\ud83c\udf6f",
+      "\ud83c\udf3b"
+    ],
+    "answer": "Bee",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Makes honey and stings",
+    "difficulty": "easy",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_easy_019",
+    "title": "Colorful Arc",
+    "category": "Science",
+    "emojiList": [
+      "\ud83c\udf08",
+      "\ud83c\udf27\ufe0f",
+      "\u2600\ufe0f"
+    ],
+    "answer": "Rainbow",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "After the rain",
+    "difficulty": "easy",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_easy_020",
+    "title": "Tall Animal",
+    "category": "Animals",
+    "emojiList": [
+      "\ud83e\udd92",
+      "\ud83c\udf33",
+      "\ud83d\udfe1"
+    ],
+    "answer": "Giraffe",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Long neck, spots",
+    "difficulty": "easy",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_easy_021",
+    "title": "Green Vegetable",
+    "category": "Food & Drink",
+    "emojiList": [
+      "\ud83e\udd66",
+      "\ud83d\udfe2",
+      "\ud83c\udf33"
+    ],
+    "answer": "Broccoli",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Looks like tiny trees",
+    "difficulty": "easy",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_easy_022",
+    "title": "Swimming Sport",
+    "category": "Sports",
+    "emojiList": [
+      "\u26bd",
+      "\ud83e\udd45",
+      "\ud83d\udc5f"
+    ],
+    "answer": "Soccer",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Kick the ball, score goals",
+    "difficulty": "easy",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_easy_023",
+    "title": "Hopping Sport",
+    "category": "Sports",
+    "emojiList": [
+      "\ud83c\udfc0",
+      "\ud83c\udfc0",
+      "\ud83e\uddfa"
+    ],
+    "answer": "Basketball",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Dribble and shoot hoops",
+    "difficulty": "easy",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_easy_024",
+    "title": "Flying Vehicle",
+    "category": "Technology",
+    "emojiList": [
+      "\u2708\ufe0f",
+      "\u2601\ufe0f",
+      "\ud83c\udf0d"
+    ],
+    "answer": "Airplane",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Flies people across the sky",
+    "difficulty": "easy",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_easy_025",
+    "title": "Ocean Fish",
+    "category": "Animals",
+    "emojiList": [
+      "\ud83e\udd88",
+      "\ud83c\udf0a",
+      "\ud83e\uddb7"
+    ],
+    "answer": "Shark",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Sharp teeth, ocean predator",
+    "difficulty": "easy",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_001",
+    "title": "Heist Thriller",
+    "category": "Movies",
+    "emojiList": [
+      "\ud83d\udcb0",
+      "\ud83c\udfe6",
+      "\ud83d\udc65",
+      "\u23f0",
+      "\ud83c\udfad"
+    ],
+    "answer": "Ocean's Eleven",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Vegas vault with a dozen conspirators",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_002",
+    "title": "Comedy Sitcom",
+    "category": "TV Shows",
+    "emojiList": [
+      "\u2615",
+      "\ud83d\udecb\ufe0f",
+      "\ud83d\udc65",
+      "\ud83c\udfe0",
+      "\ud83d\ude02"
+    ],
+    "answer": "Friends",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Central Perk's favorite group",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_003",
+    "title": "Japanese Dish",
+    "category": "Food & Drink",
+    "emojiList": [
+      "\ud83c\udf5c",
+      "\ud83e\udd62",
+      "\ud83c\udf64",
+      "\ud83e\udd5a"
+    ],
+    "answer": "Ramen",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Steaming bowl of comfort from Japan",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_004",
+    "title": "Greek Hero",
+    "category": "Mythology",
+    "emojiList": [
+      "\ud83d\udcaa",
+      "\ud83e\udd81",
+      "\u26a1",
+      "\ud83c\udfdb\ufe0f"
+    ],
+    "answer": "Hercules",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Twelve labors of legendary strength",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_005",
+    "title": "Magical School",
+    "category": "Books",
+    "emojiList": [
+      "\u26a1",
+      "\ud83e\uddd9\u200d\u2642\ufe0f",
+      "\ud83c\udff0",
+      "\ud83d\udcda",
+      "\ud83e\udd89"
+    ],
+    "answer": "Harry Potter",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Boy wizard's seven-year education",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_006",
+    "title": "Light Theory",
+    "category": "Science",
+    "emojiList": [
+      "\ud83d\udca1",
+      "\ud83c\udf0a",
+      "\u26a1",
+      "\ud83d\udc68\u200d\ud83d\udd2c"
+    ],
+    "answer": "Wave Theory",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Electromagnetic oscillations in motion",
+    "difficulty": "hard",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_007",
+    "title": "Roman Structure",
+    "category": "Landmarks",
+    "emojiList": [
+      "\ud83c\udfdf\ufe0f",
+      "\u2694\ufe0f",
+      "\ud83e\udd81",
+      "\ud83c\uddee\ud83c\uddf9"
+    ],
+    "answer": "Colosseum",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Arena where gladiators faced their fate",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_008",
+    "title": "Coffee Chain",
+    "category": "Companies",
+    "emojiList": [
+      "\u2615",
+      "\ud83d\udfe2",
+      "\ud83d\udc51",
+      "\ud83c\udf1f"
+    ],
+    "answer": "Starbucks",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Mermaid logo in every neighborhood",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_009",
+    "title": "Battle Royale",
+    "category": "Video Games",
+    "emojiList": [
+      "\ud83d\ude8c",
+      "\ud83c\udfdd\ufe0f",
+      "\ud83d\udd2b",
+      "\u26fd"
+    ],
+    "answer": "Fortnite",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Building, dancing, victory royale",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_010",
+    "title": "Difficult Task",
+    "category": "Phrases & Idioms",
+    "emojiList": [
+      "\ud83c\udfd4\ufe0f",
+      "\u26f0\ufe0f",
+      "\ud83e\uddd7\u200d\u2642\ufe0f",
+      "\ud83d\ude24"
+    ],
+    "answer": "Uphill Battle",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Fighting gravity in every step",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_011",
+    "title": "Viking Discovery",
+    "category": "History",
+    "emojiList": [
+      "\u26f5",
+      "\ud83c\udf0a",
+      "\ud83d\uddfa\ufe0f",
+      "\ud83c\uddee\ud83c\uddf8"
+    ],
+    "answer": "Discovery of America",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Norse explorer reached new shores first",
+    "difficulty": "hard",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_012",
+    "title": "Pop Ballad",
+    "category": "Music",
+    "emojiList": [
+      "\ud83c\udfb9",
+      "\ud83d\udc94",
+      "\ud83d\udc4b",
+      "\ud83c\udfa4"
+    ],
+    "answer": "Goodbye",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Farewell melody that tugs the heart",
+    "difficulty": "hard",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_013",
+    "title": "Arctic Predator",
+    "category": "Animals",
+    "emojiList": [
+      "\ud83d\udc3b",
+      "\u2744\ufe0f",
+      "\ud83e\uddca",
+      "\ud83d\udc1f"
+    ],
+    "answer": "Polar Bear",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "White hunter of the frozen north",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_014",
+    "title": "Winter Olympics",
+    "category": "Sports",
+    "emojiList": [
+      "\u26f7\ufe0f",
+      "\ud83c\udfc2",
+      "\ud83e\udd47",
+      "\u2744\ufe0f"
+    ],
+    "answer": "Winter Olympics",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Snowy slopes meet golden dreams",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_015",
+    "title": "Web Browser",
+    "category": "Technology",
+    "emojiList": [
+      "\ud83c\udf10",
+      "\ud83d\udd0d",
+      "\ud83d\udcf1",
+      "\ud83d\udfe1"
+    ],
+    "answer": "Chrome",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Google's window to the web",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_016",
+    "title": "Zombie Survival",
+    "category": "Movies",
+    "emojiList": [
+      "\ud83e\udddf\u200d\u2642\ufe0f",
+      "\ud83d\udeaa",
+      "\ud83d\udd28",
+      "\ud83d\udc65"
+    ],
+    "answer": "Shaun of the Dead",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "British comedy meets undead crisis",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_017",
+    "title": "Pop Star",
+    "category": "Celebrities",
+    "emojiList": [
+      "\ud83c\udfa4",
+      "\ud83d\udc83",
+      "\ud83c\uddfa\ud83c\uddf8",
+      "\ud83d\udc8b"
+    ],
+    "answer": "Taylor Swift",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Country to pop with dedicated fans",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_018",
+    "title": "Mexican Dish",
+    "category": "Food & Drink",
+    "emojiList": [
+      "\ud83c\udf2e",
+      "\ud83e\uddc0",
+      "\ud83e\udd51",
+      "\ud83c\udf36\ufe0f"
+    ],
+    "answer": "Quesadilla",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Melted cheese wrapped in tortilla love",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_019",
+    "title": "Cooking Show",
+    "category": "TV Shows",
+    "emojiList": [
+      "\ud83d\udc68\u200d\ud83c\udf73",
+      "\ud83d\udd25",
+      "\u23f0",
+      "\ud83c\udfc6"
+    ],
+    "answer": "MasterChef",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Amateur cooks battle for culinary crown",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_020",
+    "title": "Longest River",
+    "category": "Geography",
+    "emojiList": [
+      "\ud83d\udc0a",
+      "\ud83c\udffa",
+      "\ud83c\udf0a",
+      "\ud83c\uddea\ud83c\uddec"
+    ],
+    "answer": "River Nile",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Ancient civilizations' lifeline flows north",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_021",
+    "title": "Streaming Platform",
+    "category": "Companies",
+    "emojiList": [
+      "\ud83c\udfb5",
+      "\ud83d\udc9a",
+      "\ud83c\udfa7",
+      "\ud83d\udcf1"
+    ],
+    "answer": "Spotify",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Green circle streams your playlist",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_022",
+    "title": "Racing Game",
+    "category": "Video Games",
+    "emojiList": [
+      "\ud83c\udfce\ufe0f",
+      "\ud83c\udfc1",
+      "\ud83c\udfc6",
+      "\ud83c\udfae"
+    ],
+    "answer": "Mario Kart",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Shell-throwing plumber races",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_023",
+    "title": "Easy Task",
+    "category": "Phrases & Idioms",
+    "emojiList": [
+      "\ud83c\udf70",
+      "\ud83c\udf7d\ufe0f",
+      "\ud83d\ude0b",
+      "\ud83d\udc76"
+    ],
+    "answer": "Piece of Cake",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Sweet slice of simplicity",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_024",
+    "title": "DNA Structure",
+    "category": "Science",
+    "emojiList": [
+      "\ud83e\uddec",
+      "\ud83c\udf00",
+      "\ud83d\udd2c",
+      "\ud83d\udc68\u200d\u2695\ufe0f"
+    ],
+    "answer": "Double Helix",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Twisted ladder of genetic code",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_025",
+    "title": "Wonder of World",
+    "category": "Landmarks",
+    "emojiList": [
+      "\ud83d\uddff",
+      "\ud83c\udf0b",
+      "\ud83c\udf0a",
+      "\ud83c\udde8\ud83c\uddf1"
+    ],
+    "answer": "Easter Island",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Stone heads gaze over Pacific waters",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_026",
+    "title": "Tarantino Film",
+    "category": "Movies",
+    "emojiList": [
+      "\ud83c\udf54",
+      "\ud83d\udcbc",
+      "\ud83d\udd2b",
+      "\ud83d\udd7a"
+    ],
+    "answer": "Pulp Fiction",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Royale with cheese and Bible verses",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_027",
+    "title": "Coming-of-Age",
+    "category": "Books",
+    "emojiList": [
+      "\ud83c\udf3e",
+      "\ud83d\udc66",
+      "\ud83c\udfe0",
+      "\ud83c\udf3d"
+    ],
+    "answer": "The Catcher in the Rye",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Holden's cynical journey through adolescence",
+    "difficulty": "hard",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_028",
+    "title": "Basketball Legend",
+    "category": "Celebrities",
+    "emojiList": [
+      "\ud83c\udfc0",
+      "\ud83d\udc0d",
+      "\ud83d\udc9c",
+      "\ud83d\udc9b"
+    ],
+    "answer": "Kobe Bryant",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Mamba mentality in purple and gold",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_029",
+    "title": "E-commerce Giant",
+    "category": "Companies",
+    "emojiList": [
+      "\ud83d\udce6",
+      "\ud83d\ude9a",
+      "\ud83c\udf0d",
+      "\ud83d\udcb3"
+    ],
+    "answer": "Amazon",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Everything delivered from A to Z",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_030",
+    "title": "French Pastry",
+    "category": "Food & Drink",
+    "emojiList": [
+      "\ud83e\udd50",
+      "\ud83e\uddc8",
+      "\u2615",
+      "\ud83c\uddeb\ud83c\uddf7"
+    ],
+    "answer": "Croissant",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Buttery crescent from Paris bakeries",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_031",
+    "title": "Hero's Journey",
+    "category": "Mythology",
+    "emojiList": [
+      "\ud83c\udff9",
+      "\ud83c\udf0a",
+      "\ud83c\udfe0",
+      "\u26a1"
+    ],
+    "answer": "Odyssey",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Decade-long voyage home after war",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_032",
+    "title": "Periodic Element",
+    "category": "Science",
+    "emojiList": [
+      "\ud83d\udc8e",
+      "\u26ab",
+      "\u270f\ufe0f",
+      "\ud83d\udd25"
+    ],
+    "answer": "Carbon",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Element six, from diamonds to pencils",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_033",
+    "title": "Fantasy Series",
+    "category": "TV Shows",
+    "emojiList": [
+      "\ud83d\udc09",
+      "\ud83d\udc51",
+      "\u2694\ufe0f",
+      "\ud83c\udff0"
+    ],
+    "answer": "Game of Thrones",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Iron throne contested by noble houses",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_034",
+    "title": "Life Simulation",
+    "category": "Video Games",
+    "emojiList": [
+      "\ud83c\udfe0",
+      "\ud83d\udc65",
+      "\ud83d\udcbc",
+      "\ud83d\udc76"
+    ],
+    "answer": "The Sims",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Digital people live digital lives",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_035",
+    "title": "Major Decision",
+    "category": "Phrases & Idioms",
+    "emojiList": [
+      "\ud83c\udfd4\ufe0f",
+      "\u27a1\ufe0f",
+      "\u2b07\ufe0f",
+      "\ud83d\ude2c"
+    ],
+    "answer": "Point of No Return",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "The moment when backing out becomes impossible",
+    "difficulty": "hard",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_036",
+    "title": "Superhero Team",
+    "category": "Movies",
+    "emojiList": [
+      "\ud83e\uddb8\u200d\u2642\ufe0f",
+      "\ud83e\uddb8\u200d\u2640\ufe0f",
+      "\u26a1",
+      "\ud83d\udd28",
+      "\ud83d\udee1\ufe0f"
+    ],
+    "answer": "Avengers",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Earth's mightiest heroes assemble",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_037",
+    "title": "World War Event",
+    "category": "History",
+    "emojiList": [
+      "\u2708\ufe0f",
+      "\ud83c\udfdd\ufe0f",
+      "\ud83d\udca5",
+      "\ud83c\uddfa\ud83c\uddf8"
+    ],
+    "answer": "Pearl Harbor",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "December 7th that changed everything",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_038",
+    "title": "Tennis Tournament",
+    "category": "Sports",
+    "emojiList": [
+      "\ud83c\udfbe",
+      "\ud83d\uddfd",
+      "\ud83c\udfd9\ufe0f",
+      "\ud83c\uddfa\ud83c\uddf8"
+    ],
+    "answer": "US Open",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Hard courts in the city that never sleeps",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_039",
+    "title": "Russian Novel",
+    "category": "Books",
+    "emojiList": [
+      "\u2694\ufe0f",
+      "\u262e\ufe0f",
+      "\ud83d\udc51",
+      "\ud83c\uddf7\ud83c\uddfa"
+    ],
+    "answer": "War and Peace",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Tolstoy's epic of conflict and calm",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_040",
+    "title": "Himalayan Peak",
+    "category": "Geography",
+    "emojiList": [
+      "\u26f0\ufe0f",
+      "\ud83c\udfd4\ufe0f",
+      "\u2601\ufe0f",
+      "\ud83c\uddf3\ud83c\uddf5"
+    ],
+    "answer": "Mount Everest",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Earth's highest point touches the sky",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_041",
+    "title": "Fast Food Chain",
+    "category": "Companies",
+    "emojiList": [
+      "\ud83c\udf5f",
+      "\ud83d\udfe1",
+      "\ud83d\udd34",
+      "\ud83d\udc51"
+    ],
+    "answer": "McDonald's",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Golden arches serve billions",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_042",
+    "title": "80s Hit",
+    "category": "Music",
+    "emojiList": [
+      "\ud83c\udf03",
+      "\ud83c\udfb8",
+      "\ud83c\udf19",
+      "\ud83d\udc9c"
+    ],
+    "answer": "Purple Rain",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Prince's colorful storm anthem",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_043",
+    "title": "Jungle Cat",
+    "category": "Animals",
+    "emojiList": [
+      "\ud83d\udc05",
+      "\ud83c\udf34",
+      "\ud83e\udd8e",
+      "\ud83c\udfc3\u200d\u2642\ufe0f"
+    ],
+    "answer": "Jaguar",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Spotted predator of the Amazon",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_044",
+    "title": "Box of Troubles",
+    "category": "Mythology",
+    "emojiList": [
+      "\ud83d\udc69",
+      "\ud83d\udce6",
+      "\ud83e\udd8b",
+      "\ud83c\udf2a\ufe0f"
+    ],
+    "answer": "Pandora's Box",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Curiosity unleashed chaos but kept hope",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_045",
+    "title": "Keep Secret",
+    "category": "Phrases & Idioms",
+    "emojiList": [
+      "\ud83e\udd10",
+      "\ud83d\udd12",
+      "\ud83d\udde3\ufe0f",
+      "\ud83d\udc65"
+    ],
+    "answer": "Keep it Under Wraps",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Information stays safely hidden",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_046",
+    "title": "Puzzle Platformer",
+    "category": "Video Games",
+    "emojiList": [
+      "\ud83c\udfae",
+      "\ud83e\udde9",
+      "\ud83c\udf00",
+      "\ud83e\udd16"
+    ],
+    "answer": "Portal",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Think with portals and beware the cake",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_047",
+    "title": "Egyptian Monument",
+    "category": "Landmarks",
+    "emojiList": [
+      "\ud83d\udd3a",
+      "\ud83e\udea6",
+      "\ud83c\udfdc\ufe0f",
+      "\ud83c\uddea\ud83c\uddec"
+    ],
+    "answer": "Pyramids of Giza",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Ancient tombs guard the desert sands",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_048",
+    "title": "Mind-Bending Thriller",
+    "category": "Movies",
+    "emojiList": [
+      "\ud83e\udde0",
+      "\ud83c\udf00",
+      "\ud83d\udc41\ufe0f",
+      "\ud83d\udd0d"
+    ],
+    "answer": "Shutter Island",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Nothing is as it seems on the psychiatric isle",
+    "difficulty": "hard",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_049",
+    "title": "Indian Curry",
+    "category": "Food & Drink",
+    "emojiList": [
+      "\ud83c\udf5b",
+      "\ud83d\udc04",
+      "\ud83e\uddc8",
+      "\ud83c\udf36\ufe0f"
+    ],
+    "answer": "Butter Murgh",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Creamy tomato chicken delight",
+    "difficulty": "hard",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_050",
+    "title": "Canadian Singer",
+    "category": "Celebrities",
+    "emojiList": [
+      "\ud83c\udfa4",
+      "\ud83c\udde8\ud83c\udde6",
+      "\ud83d\udc8e",
+      "\ud83c\udf1f"
+    ],
+    "answer": "Celine Dion",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Voice that launched a thousand ships (and hearts)",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_051",
+    "title": "American Classic",
+    "category": "Books",
+    "emojiList": [
+      "\ud83d\udc26",
+      "\u26ab",
+      "\ud83e\udd85",
+      "\ud83d\udcda"
+    ],
+    "answer": "To Kill a Mockingbird",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Scout learns about prejudice and courage",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_052",
+    "title": "Medical Drama",
+    "category": "TV Shows",
+    "emojiList": [
+      "\ud83c\udfe5",
+      "\ud83d\udc89",
+      "\ud83d\udc69\u200d\u2695\ufe0f",
+      "\u2764\ufe0f"
+    ],
+    "answer": "Grey's Anatomy",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Seattle hospital where love and surgery collide",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_053",
+    "title": "Do It Anyway",
+    "category": "Phrases & Idioms",
+    "emojiList": [
+      "\ud83c\udfaf",
+      "\ud83d\udd2b",
+      "\ud83c\udf19",
+      "\u2728"
+    ],
+    "answer": "Shoot for the Moon",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Aim high, land among stars if you miss",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_054",
+    "title": "Sci-Fi Classic",
+    "category": "Movies",
+    "emojiList": [
+      "\ud83d\udc7d",
+      "\ud83d\udc66",
+      "\ud83d\udeb2",
+      "\ud83c\udf19"
+    ],
+    "answer": "E.T.",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Phone home from suburbia",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_055",
+    "title": "Social Media",
+    "category": "Companies",
+    "emojiList": [
+      "\ud83d\udcd8",
+      "\ud83d\udc65",
+      "\ud83d\udcac",
+      "\ud83d\udc4d"
+    ],
+    "answer": "Facebook",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Blue network connecting the world",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_056",
+    "title": "Natural Wonder",
+    "category": "Landmarks",
+    "emojiList": [
+      "\u26f0\ufe0f",
+      "\ud83c\udf08",
+      "\ud83c\udfde\ufe0f",
+      "\ud83c\uddfa\ud83c\uddf8"
+    ],
+    "answer": "Grand Canyon",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Colorado River carved this masterpiece",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_057",
+    "title": "Gravity Theory",
+    "category": "Science",
+    "emojiList": [
+      "\ud83c\udf4e",
+      "\ud83c\udf0d",
+      "\ud83d\udd22",
+      "\ud83d\udc68\u200d\ud83d\udd2c"
+    ],
+    "answer": "Newton's Law",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "What goes up must come down",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_058",
+    "title": "Trojan Prince",
+    "category": "Mythology",
+    "emojiList": [
+      "\u2694\ufe0f",
+      "\ud83c\udfdb\ufe0f",
+      "\ud83d\udc78",
+      "\ud83d\udd25"
+    ],
+    "answer": "Paris",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "His choice of beauty launched ships",
+    "difficulty": "hard",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_059",
+    "title": "Monster Hunter",
+    "category": "Video Games",
+    "emojiList": [
+      "\ud83d\udde1\ufe0f",
+      "\ud83d\udc09",
+      "\ud83d\udee1\ufe0f",
+      "\u2694\ufe0f"
+    ],
+    "answer": "Monster Hunter",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Track, trap, triumph over giant beasts",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_060",
+    "title": "Rock Anthem",
+    "category": "Music",
+    "emojiList": [
+      "\ud83d\udc51",
+      "\ud83c\udfb8",
+      "\ud83c\udfdf\ufe0f",
+      "\ud83d\udc65"
+    ],
+    "answer": "We Will Rock You",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Stomp stomp clap, crowd participation required",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_061",
+    "title": "Olympic Sport",
+    "category": "Sports",
+    "emojiList": [
+      "\ud83c\udfca\u200d\u2640\ufe0f",
+      "\ud83d\udca6",
+      "\ud83c\udfc6",
+      "\u23f1\ufe0f"
+    ],
+    "answer": "Swimming",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Pools, lanes, and golden times",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_062",
+    "title": "Australian Outback",
+    "category": "Geography",
+    "emojiList": [
+      "\ud83c\udfdc\ufe0f",
+      "\ud83e\udea8",
+      "\ud83e\udd98",
+      "\ud83c\udde6\ud83c\uddfa"
+    ],
+    "answer": "Uluru",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Red rock heart of the continent",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_063",
+    "title": "Reveal Truth",
+    "category": "Phrases & Idioms",
+    "emojiList": [
+      "\ud83d\udc31",
+      "\ud83d\udc5c",
+      "\ud83d\udde3\ufe0f",
+      "\ud83d\ude31"
+    ],
+    "answer": "Let the Cat Out of the Bag",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Spill the hidden information accidentally",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_064",
+    "title": "Prison Drama",
+    "category": "Movies",
+    "emojiList": [
+      "\ud83c\udfe2",
+      "\ud83d\udd17",
+      "\ud83d\udd6f\ufe0f",
+      "\ud83d\udddd\ufe0f"
+    ],
+    "answer": "Shawshank Redemption",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Hope persists behind prison walls",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_065",
+    "title": "Post-Apocalyptic",
+    "category": "Books",
+    "emojiList": [
+      "\ud83d\udcfb",
+      "\ud83d\udcda",
+      "\ud83d\udd25",
+      "\ud83c\udfe0"
+    ],
+    "answer": "Fahrenheit 451",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Temperature at which books burn",
+    "difficulty": "hard",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_066",
+    "title": "Crime Series",
+    "category": "TV Shows",
+    "emojiList": [
+      "\ud83d\udd2c",
+      "\ud83e\uddec",
+      "\ud83d\udd0d",
+      "\u2696\ufe0f"
+    ],
+    "answer": "CSI",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Science solves sin city mysteries",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_067",
+    "title": "Ocean Giant",
+    "category": "Animals",
+    "emojiList": [
+      "\ud83d\udc0b",
+      "\ud83d\udc99",
+      "\ud83c\udf0a",
+      "\ud83c\udfb5"
+    ],
+    "answer": "Blue Whale",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Largest creature to ever live sings deep",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_068",
+    "title": "Shoe Company",
+    "category": "Companies",
+    "emojiList": [
+      "\ud83d\udc5f",
+      "\u2713",
+      "\ud83c\udfc3\u200d\u2642\ufe0f",
+      "\ud83d\udca8"
+    ],
+    "answer": "Nike",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Just do it with the swoosh",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_069",
+    "title": "Thai Dish",
+    "category": "Food & Drink",
+    "emojiList": [
+      "\ud83c\udf5c",
+      "\ud83e\udd5c",
+      "\ud83c\udf36\ufe0f",
+      "\ud83c\uddf9\ud83c\udded"
+    ],
+    "answer": "Pad Thai",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Sweet, sour, nutty noodle harmony",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_070",
+    "title": "Love Song",
+    "category": "Music",
+    "emojiList": [
+      "\ud83d\udc98",
+      "\ud83c\udfb6",
+      "\ud83d\udc91",
+      "\ud83c\udf39"
+    ],
+    "answer": "My Heart Will Go On",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Celine's titanic ballad of devotion",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_071",
+    "title": "Platformer Classic",
+    "category": "Video Games",
+    "emojiList": [
+      "\ud83c\udf44",
+      "\ud83c\udff0",
+      "\ud83d\udc51",
+      "\ud83d\udc68\u200d\ud83d\udcbc"
+    ],
+    "answer": "Super Mario",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Plumber jumps to save the princess",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_072",
+    "title": "Indian Palace",
+    "category": "Landmarks",
+    "emojiList": [
+      "\ud83d\udd4c",
+      "\ud83d\udc8e",
+      "\ud83d\udc9d",
+      "\ud83c\uddee\ud83c\uddf3"
+    ],
+    "answer": "Taj Mahal",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Monument to eternal love in white marble",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_073",
+    "title": "Feel Better",
+    "category": "Phrases & Idioms",
+    "emojiList": [
+      "\ud83c\udf26\ufe0f",
+      "\ud83c\udf08",
+      "\u2600\ufe0f",
+      "\ud83d\ude0a"
+    ],
+    "answer": "Every Cloud Has a Silver Lining",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Hope shines through stormy times",
+    "difficulty": "hard",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_074",
+    "title": "War Epic",
+    "category": "Movies",
+    "emojiList": [
+      "\u2694\ufe0f",
+      "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f",
+      "\ud83d\udc99",
+      "\ud83d\udde1\ufe0f"
+    ],
+    "answer": "Braveheart",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Scottish warrior fights for freedom",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_075",
+    "title": "Vampire Novel",
+    "category": "Books",
+    "emojiList": [
+      "\ud83e\udddb\u200d\u2642\ufe0f",
+      "\ud83c\udff0",
+      "\u26b0\ufe0f",
+      "\ud83e\udd87"
+    ],
+    "answer": "Dracula",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Transylvanian count thirsts for blood",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_076",
+    "title": "Comedy Actor",
+    "category": "Celebrities",
+    "emojiList": [
+      "\ud83c\udfad",
+      "\ud83c\udfac",
+      "\ud83d\ude02",
+      "\ud83c\udfaa"
+    ],
+    "answer": "Robin Williams",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Genie granted laughter and tears equally",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_077",
+    "title": "Chemical Reaction",
+    "category": "Science",
+    "emojiList": [
+      "\ud83d\udd25",
+      "\u2697\ufe0f",
+      "\ud83d\udca8",
+      "\u26a1"
+    ],
+    "answer": "Combustion",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Oxygen meets fuel with explosive results",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_078",
+    "title": "Track Event",
+    "category": "Sports",
+    "emojiList": [
+      "\ud83c\udfc3\u200d\u2642\ufe0f",
+      "\ud83d\udccf",
+      "\ud83e\udd47",
+      "100"
+    ],
+    "answer": "100 Meter Dash",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Fastest humans on Earth in 10 seconds",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_079",
+    "title": "South American Range",
+    "category": "Geography",
+    "emojiList": [
+      "\u26f0\ufe0f",
+      "\ud83e\udd99",
+      "\ud83c\uddf5\ud83c\uddea",
+      "\u2601\ufe0f"
+    ],
+    "answer": "Andes",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Spine of a continent reaches the clouds",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_080",
+    "title": "Stealth Action",
+    "category": "Video Games",
+    "emojiList": [
+      "\ud83e\udd77",
+      "\ud83d\udce6",
+      "\u2757",
+      "\ud83d\udc0d"
+    ],
+    "answer": "Metal Gear Solid",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Tactical espionage with cardboard boxes",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_081",
+    "title": "Payment System",
+    "category": "Companies",
+    "emojiList": [
+      "\ud83d\udcb3",
+      "\ud83c\udf10",
+      "\ud83d\udcb0",
+      "\ud83d\udd10"
+    ],
+    "answer": "PayPal",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Digital wallet for online transactions",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_082",
+    "title": "Greek Appetizer",
+    "category": "Food & Drink",
+    "emojiList": [
+      "\ud83e\uded2",
+      "\ud83e\uddc0",
+      "\ud83c\udf5e",
+      "\ud83c\uddec\ud83c\uddf7"
+    ],
+    "answer": "Tzatziki",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Yogurt, cucumber, and garlic dip",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_083",
+    "title": "Courtroom Series",
+    "category": "TV Shows",
+    "emojiList": [
+      "\u2696\ufe0f",
+      "\ud83d\udcbc",
+      "\ud83d\udc54",
+      "\ud83d\udde3\ufe0f"
+    ],
+    "answer": "Suits",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Legal drama with sharp wit and wardrobes",
+    "difficulty": "hard",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_084",
+    "title": "Lost Opportunity",
+    "category": "Phrases & Idioms",
+    "emojiList": [
+      "\ud83d\udea2",
+      "\u26f5",
+      "\ud83c\udf0a",
+      "\ud83d\ude22"
+    ],
+    "answer": "That Ship Has Sailed",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "The chance has departed the harbor",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_085",
+    "title": "Norse Mythology",
+    "category": "Mythology",
+    "emojiList": [
+      "\ud83d\udd28",
+      "\u26a1",
+      "\ud83e\uddd4",
+      "\ud83c\udf08"
+    ],
+    "answer": "Thor",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Thunder god wields mighty hammer",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_086",
+    "title": "Folk Song",
+    "category": "Music",
+    "emojiList": [
+      "\ud83c\udfb8",
+      "\ud83d\udd25",
+      "\ud83c\udfb5",
+      "\ud83d\udc94"
+    ],
+    "answer": "Ring of Fire",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Johnny Cash's burning passion",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_087",
+    "title": "Renaissance Era",
+    "category": "History",
+    "emojiList": [
+      "\ud83c\udfa8",
+      "\ud83c\udfdb\ufe0f",
+      "\ud83d\udcda",
+      "\ud83c\uddee\ud83c\uddf9"
+    ],
+    "answer": "Renaissance",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Rebirth of art and learning in Europe",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_088",
+    "title": "Rainforest Bird",
+    "category": "Animals",
+    "emojiList": [
+      "\ud83e\udd9c",
+      "\ud83c\udf08",
+      "\ud83c\udf34",
+      "\ud83d\udde3\ufe0f"
+    ],
+    "answer": "Macaw",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Colorful chatter in the canopy",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_089",
+    "title": "City Builder",
+    "category": "Video Games",
+    "emojiList": [
+      "\ud83c\udfd7\ufe0f",
+      "\ud83d\ude97",
+      "\ud83c\udfe0",
+      "\ud83c\udf06"
+    ],
+    "answer": "SimCity",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Mayor manages urban growth and disasters",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_090",
+    "title": "Chilean Island",
+    "category": "Landmarks",
+    "emojiList": [
+      "\ud83d\uddff",
+      "\ud83c\udf0a",
+      "\ud83c\udf0b",
+      "\ud83c\udde8\ud83c\uddf1"
+    ],
+    "answer": "Easter Island",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Ancient stone faces gaze over Pacific",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_091",
+    "title": "Dark Knight",
+    "category": "Movies",
+    "emojiList": [
+      "\ud83e\udd87",
+      "\ud83c\udf03",
+      "\ud83c\udccf",
+      "\u26a1"
+    ],
+    "answer": "Batman",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Gotham's caped crusader fights chaos",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_092",
+    "title": "Magic School",
+    "category": "Books",
+    "emojiList": [
+      "\ud83e\udd89",
+      "\u26a1",
+      "\ud83c\udff0",
+      "\ud83d\udcdc"
+    ],
+    "answer": "Hogwarts",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Witchcraft and wizardry educational institution",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_093",
+    "title": "Cross-Platform SDK",
+    "category": "Technology",
+    "emojiList": [
+      "\ud83d\udcf1",
+      "\ud83d\udcbb",
+      "\ud83c\udf10",
+      "\u26a1"
+    ],
+    "answer": "React Native",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "JavaScript bridge to mobile platforms",
+    "difficulty": "hard",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_094",
+    "title": "Tennis Great",
+    "category": "Celebrities",
+    "emojiList": [
+      "\ud83c\udfbe",
+      "\ud83d\udc51",
+      "\ud83c\uddfa\ud83c\uddf8",
+      "\ud83c\udfc6"
+    ],
+    "answer": "Serena Williams",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Powerful serve dominated courts for decades",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_095",
+    "title": "Sushi Roll",
+    "category": "Food & Drink",
+    "emojiList": [
+      "\ud83c\udf63",
+      "\ud83e\udd52",
+      "\ud83d\udc1f",
+      "\ud83c\udf0a"
+    ],
+    "answer": "California Roll",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Inside-out sushi with crab and avocado",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_096",
+    "title": "Reality Competition",
+    "category": "TV Shows",
+    "emojiList": [
+      "\ud83c\udfdd\ufe0f",
+      "\ud83d\udd25",
+      "\ud83d\uddf3\ufe0f",
+      "\ud83d\udcb0"
+    ],
+    "answer": "Survivor",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Outwit, outplay, outlast for million dollars",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_097",
+    "title": "Evolution Theory",
+    "category": "Science",
+    "emojiList": [
+      "\ud83d\udc12",
+      "\ud83d\udc68",
+      "\ud83d\udd17",
+      "\ud83d\udcda"
+    ],
+    "answer": "Evolution",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Darwin's theory of species adaptation",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_098",
+    "title": "Perfect Timing",
+    "category": "Phrases & Idioms",
+    "emojiList": [
+      "\u23f0",
+      "\ud83c\udfaf",
+      "\u2728",
+      "\ud83d\udc4c"
+    ],
+    "answer": "Right on Time",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Arriving at the perfect moment",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_099",
+    "title": "Studio Film",
+    "category": "Movies",
+    "emojiList": [
+      "\ud83d\udc57",
+      "\ud83d\udc83",
+      "\ud83c\udfb5",
+      "\ud83c\udf1f"
+    ],
+    "answer": "La La Land",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Jazz and dreams dance in Los Angeles",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  },
+  {
+    "id": "lib_100",
+    "title": "Arctic Ocean",
+    "category": "Geography",
+    "emojiList": [
+      "\ud83e\uddca",
+      "\ud83d\udc3b\u200d\u2744\ufe0f",
+      "\ud83c\udf0a",
+      "\ud83e\udded"
+    ],
+    "answer": "Arctic Ocean",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "hint": "Frozen waters at the top of the world",
+    "difficulty": "medium",
+    "createdWithGenmoji": false
+  }
+]
